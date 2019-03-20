@@ -1,19 +1,17 @@
 mkdocs-jinja2sandbox-plugin
 ===========================
 
-Author:    Roland Koebler <rk@simple-is-better.org>
-Version:   2019-03-20
-License:   MIT
+Author:  Roland Koebler <rk@simple-is-better.org>  
+Version: 2019-03-20  
+License: MIT  
 
 A MkDocs plugin that enables the Jinja2-sandbox.
 
 Developed for and tested with MkDocs 1.0.4 on Linux.
 
-Install:
-    python3 setup.py develop
-
-Test:
-    ./test/test.sh
+Install: `python3 setup.py develop`
+    
+Test: `./test/test.sh`
 
 Enable the plugin in `mkdocs.yml`:
 
